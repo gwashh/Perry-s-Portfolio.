@@ -1,0 +1,59 @@
+body{
+    
+    background-image: url('https://media.thehypemagazine.com/wp-content/uploads/2019/05/DSC_0229-1024x683.jpg');
+  
+    margin: 0;
+    padding: 0;
+    background-color:gray
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+.About{
+    text-align: center;
+    color: brown;
+    font-size: 20px;
+}
+
+h3{
+    text-align: center;
+    color:black;
+    font-weight: bold;
+    font-size: 20px;
+} 
+
+img{
+    
+    border: 10px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+h4{
+    text-align: center;
+    margin-bottom: 3px;
+    font-size: 20px;
+}
+.mars{
+    text-align: center;
+    font-weight: lighter;
+}
+ul{
+    display: inline-table;
+}
+li{
+    display: inline;
+}.mku{
+    text-align: center;
+    font-weight: lighter;
+    font-size: 20px;
+}
+ul{
+    display: inline-table;
+}
+li{
+    display: inline;
+
+}
