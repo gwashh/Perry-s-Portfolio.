@@ -1,7 +1,4 @@
 body{
-    
-    background-image: url('https://media.thehypemagazine.com/wp-content/uploads/2019/05/DSC_0229-1024x683.jpg');
-  
     margin: 0;
     padding: 0;
     background-color:gray
@@ -9,6 +6,10 @@ body{
 h1{
     text-align: center;
     color: blue;
+}
+.background {
+    background-image: url('https://media.thehypemagazine.com/wp-content/uploads/2019/05/DSC_0229-1024x683.jpg');
+
 }
 .About{
     text-align: center;
